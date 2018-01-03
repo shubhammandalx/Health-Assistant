@@ -58,8 +58,8 @@ Open your browser and type -
 
 ## Built With
 
-* [Eclipse PDO (eclipse.org/) - Which is the Eclipse Foundation open source community website.
-* [PHPMYADMIN](https://maven.apache.org/) - Database Management
+* [Eclipse PDO (https://eclipse.org/) - Which is the Eclipse Foundation open source community website.
+* [PHPMYADMIN] - Database Management
 
 
 ## Authors
