@@ -64,9 +64,9 @@ Open your browser and type -
 
 ## Authors
 
-Sumeet Jadhav [VIIT] [ENGINEERING] [SECOND YEAR]
-Nishad Patil [PCP] [DIPLOMA] [THIRD YEAR]
-Neel Khalade [PCP] [DIPLOMA] [THIRD YEAR]
+##### Sumeet Jadhav [VIIT] [ENGINEERING] [SECOND YEAR]
+##### Nishad Patil [PCP] [DIPLOMA] [THIRD YEAR]
+##### Neel Khalade [PCP] [DIPLOMA] [THIRD YEAR]
 
 ## Acknowledgments
 
