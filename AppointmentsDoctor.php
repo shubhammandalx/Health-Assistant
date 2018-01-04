@@ -46,7 +46,7 @@
 							<tbody>
 							
 <?php
-$queryAppointmentList = 'select patient.firstName, patient.lastName, patient.phoneNo, patient.email, appointment.title, appointment.description from patient inner join appointment inner join doctors on '.$_SESSION['id'].' = appointment.doctorId and patient.id = appointment.patientId' ;
+$queryAppointmentList = 'select distinct patient.firstName, patient.lastName, patient.phoneNo, patient.email, appointment.title, appointment.description from patient inner join appointment inner join doctors on '.$_SESSION['id'].' = appointment.doctorId and patient.id = appointment.patientId' ;
 $getAppointmentList = $conn->query($queryAppointmentList);
 
 if ($getAppointmentList->num_rows > 0) {
